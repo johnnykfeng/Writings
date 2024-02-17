@@ -30,8 +30,8 @@ Most people believe progress is linear, such that a fixed unit of time input yie
 <div style="text-align: center;">
     <a href="https://imgur.com/QBLTOcd"><img src="https://i.imgur.com/QBLTOcd.png" title="source: imgur.com" width="500" height="400"/></a>
     <figcaption>Productivity curve</figcaption>
-
 </div>
+
 <br> 
 The key is that there needs to be sufficient time invested to reach the steep productivity curve. However, when we context switch often by working on multiple projects simultaneously, we stay in the shallow productivity region, since every task switch demands time to load information and context into one's working memory. Therefore, for the same period of time, one achieves less cumulative progress on multiple projects compared to the progress of focusing on one project.
 
